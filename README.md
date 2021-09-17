@@ -73,6 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <<<<<<< HEAD
 ![gif](https://raw.githubusercontent.com/yhekim/React-Weather-Project/main/weather_react.gif)
-=======
-![gif](https://raw.githubusercontent.com/yhekim/React-Weather-Project/main/weather_react.gif)
->>>>>>> a454658520ab760edd6b68c625306fea629df3ce
+
+
